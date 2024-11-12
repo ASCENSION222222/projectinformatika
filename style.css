@@ -1,0 +1,20 @@
+body, html {
+            height: 100%; /* Full height */
+            margin: 0; /* Remove default margin */
+            background-color: #121212; /* A very dark shade of black */
+            color: #ffffff; /* Text color set to white for contrast */
+            font-family: 'Courier New', Courier, monospace; /* Set font to monospace */
+
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+}
+
+img {
+  transition: transform 0.3s ease;
+}
+
+img:hover {
+  transform: scale(1.2);
+}
